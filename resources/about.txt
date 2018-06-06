@@ -1,0 +1,38 @@
+Commands:
+- forward <distance>   *distance is given as an integer*
+- backward <distance>  *distance is given as an integer*
+- turnleft
+- turnright
+- black
+- green
+- red
+- reset
+- save
+- load
+
+
+Commands not working?
+- Make sure when entering a command to enter it all lower case and to give it a value if it requires one.
+
+Clearing/New panel:
+- To clear the current graphics panel, you can go under the file menu < clear in the drop down menu. 
+Alternatively you can press alt + f to bring up the file menu, and then press alt + 1.
+
+Loading Panel:
+- To clear the current graphics panel, you can go under the file menu < load in the drop down menu. 
+Alternatively you can press alt + f to bring up the file menu, and then press alt + 2.
+
+Saving Panel:
+- To save the current graphics panel, you can go under the file menu < save in the drop down menu. 
+Alternatively you can press alt + f to bring up the file menu, and then press alt + 3. When saving a image, 
+you must also include the file extension(.png).
+
+Exiting application:
+- To exit the application, you can go under the file menu < exit in the drop down menu. 
+Alternatively you can press alt + f to bring up the file menu, and then press alt + 4.
+
+The Graphical User Interface also allows for basic functionality of the program without the commandline, you can draw in 
+all basic directions; save/load and clear the graphics panel using displayed buttons.
+
+The GUI also features a status bar, this will tell you where the turtle is currently positioned along with the turtle bearing. 
+The status bar also tells you if the current panel has been saved.
